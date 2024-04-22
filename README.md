@@ -25,10 +25,6 @@ Meu site pessoal possui as seguintes funcionalidades:
 - Seção "Sobre Mim" para compartilhar informações pessoais e profissionais.
 - Responsivo em todos os dispositivos, garantindo uma experiência de usuário consistente.
 
-## Como Visualizar
-
-Você pode visualizar o meu site pessoal acessando [link do site aqui].
-
 ## Contribuições
 
 Sinta-se à vontade para abrir issues ou enviar pull requests com sugestões de melhorias ou correções de bugs. Estou sempre aberto a feedbacks e colaborações!
