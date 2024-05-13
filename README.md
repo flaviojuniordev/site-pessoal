@@ -2,6 +2,8 @@
 
 Bem-vindo ao repositório do meu site pessoal! Este projeto é o meu primeiro projeto 100% responsivo e serve como um portfólio para exibir meu trabalho e algumas informações pessoais.
 
+acesse o site: https://keen-centaur-6967ac.netlify.app/
+
 ## Sobre Mim
 
 Meu nome é Flávio Júnior, sou um desenvolvedor iniciante com preferência pelo back-end, mas estou me aventurando no mundo do front-end. Sou apaixonado por criar belas e funcionais interfaces web e estou sempre aprendendo e buscando melhorar minhas habilidades.
