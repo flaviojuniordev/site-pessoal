@@ -20,9 +20,6 @@
     <title>Colegas de Trabalho</title>
 </head>
 
-
-
-
 <body style="background-color: #1c2331;">
 
     <header class="header">
@@ -45,7 +42,7 @@
             <div class="infoperfil">
 
                 <div class="perfiltitle" style="margin-top: 1rem;">
-                    <h2 style="margin-top: 20px; color: #fff;">########</h2>
+                    <h2 style="margin-top: 20px; color: #fff;">Informações de Colegas:</h2>
                     <hr size="5" width="100%" align="center" noshade style="color: #20BDFF ;">
                 </div>
 
@@ -55,7 +52,7 @@
                     <div id="fotocolega">
                         <h3>Proprietário</h3>
                         <br>
-                        <img src="../img/euimageblue.png" alt="foto do proprietario do Repositório">
+                        <img id="avatar" src="../img/euimageblue.png" alt="foto do proprietario do Repositório">
                     </div>
 
                     <div id="nomecolega">
@@ -69,7 +66,7 @@
             <div id="idcolega">
                 <br>
                 <h3>Identificador</h3>
-                <p>
+                <p id="identificador">
                     [numero]
                 </p>
                 <br>
@@ -77,11 +74,13 @@
 
             <div id="gitcolega">
                 <h3>Link do GitHub</h3>
-                <p><a style="text-decoration: none;"
+                <p id="linkgithub"><a style="text-decoration: none;"
                         href="https://github.com/flaviojuniordev/Linguagem-C">https://github.com/flaviojuniordev/Linguagem-C</a>
                 </p>
             </div>
     </main>
+
+    <script src="../js/input.js"></script> <!-- Inclua seu arquivo JavaScript aqui -->
 
 </body>
 
