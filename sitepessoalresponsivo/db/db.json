@@ -1,8 +1,22 @@
 {
     "colegas": [
         {
-            "id": 1,
-            "nome": "bernardordm"
+            "identificador": 1,
+            "nomecolega": "bernardordm",
+            "avatar": "https://avatars.githubusercontent.com/u/72499270?v=4",
+            "linkgithub": "https://github.com/bernardordm"
+        },
+        {
+            "identificador": 2,
+            "nomecolega": "mayckit",
+            "avatar": "https://avatars.githubusercontent.com/u/128551672?v=4",
+            "linkgithub": "https://github.com/mayckit"
+        },
+        {
+            "identificador": 3,
+            "nomecolega": "null",
+            "avatar": "https://avatars.githubusercontent.com/u/166867199?v=4",
+            "linkgithub": "https://github.com/MatheusP-Nascimento"
         }
     ]
 }
