@@ -18,5 +18,42 @@
             "avatar": "https://avatars.githubusercontent.com/u/166867199?v=4",
             "linkgithub": "https://github.com/MatheusP-Nascimento"
         }
+    ],
+    "conteudosugerido": [
+        {
+            "idconteudo": 1,
+            "titulo": "Tecnologia 5G: o que é?",
+            "assunto": "Conheça os principais benefícios do 5G, que promete impulsionar diversos setores, como Internet das Coisas (IoT), mobilidade e saúde",
+            "linkimagem": "http://127.0.0.1:5500/sitepessoalresponsivo/img/bnnr1.png",
+            "linkconteudo": "https://tecnoblog.net/responde/o-que-e-5g/"
+        },
+        {
+            "idconteudo": 2,
+            "titulo": "O que é Inteligência Artificial?",
+            "assunto": "Como funciona uma IA, quais os tipos e exemplos",
+            "linkimagem": "http://127.0.0.1:5500/sitepessoalresponsivo/img/bnnr2.png",
+            "linkconteudo": "https://www.alura.com.br/artigos/inteligencia-artificial-ia?utm_term=&utm_campaign=%5BSearch%5D+%5BPerformance%5D+-+Dynamic+Search+Ads+-+Artigos+e+Conte%C3%BAdos&utm_source=adwords&utm_medium=ppc&hsa_acc=7964138385&hsa_cam=11384329873&hsa_grp=111087461203&hsa_ad=687448474447&hsa_src=g&hsa_tgt=aud-396128415587:dsa-2276348409503&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwt-OwBhBnEiwAgwzrUlV2zzrlRERvv9bYfuVxanp_ISNtPXPuoFO5HXcB4gr4xdT1jglwihoCBFUQAvD_BwE"
+        },
+        {
+            "idconteudo": 3,
+            "titulo": "O Futuro da Programação: Explorando Tendências Emergentes",
+            "assunto": "Neste artigo, exploraremos três áreas-chave que estão ganhando destaque no cenário da programação: computação quântica, programação quântica e inteligência artificial aplicada à programação.",
+            "linkimagem": "http://127.0.0.1:5500/sitepessoalresponsivo/img/bnnr3.png",
+            "linkconteudo": "https://www.dio.me/articles/o-futuro-da-programacao-explorando-tendencias-emergentes"
+        },
+        {
+            "idconteudo": 4,
+            "titulo": "Introducing Devin, the first AI software engineer",
+            "assunto": "Setting a new state of the art on the SWE-bench coding benchmark. Meet Devin, the world’s first fully autonomous AI software engineer.",
+            "linkimagem": "http://127.0.0.1:5500/sitepessoalresponsivo/img/bnnr4.png",
+            "linkconteudo": "https://www.cognition.ai/blog/introducing-devin"
+        },
+        {
+            "idconteudo": 5,
+            "titulo": "Por que eu preciso de um social media?",
+            "assunto": "Um social media irá te ajudar a obter sucesso a longo prazo. Você não apenas terá uma presença ativa nas mídias sociais, mas também irá melhorar o atendimento ao cliente, aumentando o engajamento, o relacionamento, a conexão, tráfego, geração de leads e, claro... VENDAS!",
+            "linkimagem": "http://127.0.0.1:5500/sitepessoalresponsivo/img/bnnr5.png",
+            "linkconteudo": "https://www.portalinsights.com.br/perguntas-frequentes/por-que-eu-preciso-de-um-social-media#:~:text=Quando%20eu%20sei%20que%20preciso,novas%20pessoas%20para%20sua%20marca."
+        }
     ]
 }
